@@ -17,4 +17,19 @@ PEN PLOTTER:
     Link: https://electromer.com.py/product/motor-paso-a-paso-2/
 
 EXTENSIÓN CNC PARA PLACAS PCB:
-  3- Ventilador 
+  3- Ventilador Cooler:  ( 1 ) <- enfriar motor dc, enfriar extructor
+    Voltaje: 12V
+    Corriente: 0.15A
+    Número de cables: 3
+    Link: https://www.electronica.com.py/producto/ventilador-cooler-fan-12v-0-15a-120x120x25-mm/
+
+  4- Motor DC RS-385:  ( 1 ) <- girar la broca de 0.8mm o 1mm
+    Voltaje: 12V
+    Corriente: 0.15A - 0.75A
+    Velocidad: 9800 RPM
+    Par: 70 gr/cm
+    Link: https://www.aliexpress.com/i/3256807918804048.html?gatewayAdapt=esp2glo4itemAdapt#:~:text=Descripci%C3%B3n%20del%20art%C3%ADculoDenunciar%20art%C3%ADculo,debido%20a%20la%20medici%C3%B3n%20manual.&text=Motor%20de%20engranaje%20met%C3%A1lico:%20Durabilidad,electroherramientas:%20Ideal%20para%20aplicaciones%20industriales.
+
+
+
+
