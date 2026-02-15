@@ -1,10 +1,20 @@
 PEN PLOTTER:
   1- Motor paso a paso NEMA 17:  ( 2 ) <- eje x, eje y
-    Voltaje: 
-    Corriente: 1.5A
+    Voltaje: 12V
+    Corriente: 1.2A - 1.7A
     Ángulo de paso: 1.8 grados
     Par: 40 N/cm
     Número de cables: 4
+    Diámetro del eje: 5mm
     Link: https://electromer.com.py/product/nema-2/
 
-  2- 
+  2- Motor paso a paso 28BYJ-48:  ( 1 ) <- eje z
+    Voltaje: 5V
+    Corriente: 0.5A
+    Ángulo de paso: 5.625 grados
+    Par: 0.3 kg/cm
+    Número de cables: 5
+    Link: https://electromer.com.py/product/motor-paso-a-paso-2/
+
+EXTENSIÓN CNC PARA PLACAS PCB:
+  3- Ventilador 
