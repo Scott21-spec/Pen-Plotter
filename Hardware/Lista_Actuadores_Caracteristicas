@@ -36,19 +36,15 @@ EXTENSIÓN CNC PARA PLACAS PCB:
     Par: 70 gr/cm
     Link: https://www.aliexpress.com/i/3256807918804048.html?gatewayAdapt=esp2glo4itemAdapt#:~:text=Descripci%C3%B3n%20del%20art%C3%ADculoDenunciar%20art%C3%ADculo,debido%20a%20la%20medici%C3%B3n%20manual.&text=Motor%20de%20engranaje%20met%C3%A1lico:%20Durabilidad,electroherramientas:%20Ideal%20para%20aplicaciones%20industriales.
 
-EXTENSIÓN IMPRESORA 3D:
-  6- Extructor MK8:  ( 1 ) <- se encarga de ir estirando el filamento
-    Voltaje:
-    Corriente:
-    Número de cables:
+EXTENSIÓN IMPRESORA 3D: (este queda como una extension en el PCB)
+  6- Extructor MK8 (motor paso a paso NEMA 17):  ( 1 ) <- se encarga de ir estirando el filamento
     Diámetro del filamento: 1.75mm
-    Link:
 
-  7- Hotend:  ( 1 ) <- calienta el filamento
-    Voltaje:
-    Corriente:
-    Número de cables:
+  7- Hotend 40W:  ( 1 ) <- calienta el filamento
+    Voltaje: 12V
+    Corriente: 3.2A - 4A
+    Número de cables: 2
     Diámetro del filamento: 1.75mm
-    Link:
+    Diámetro de la punta: 0.4mm
 
 
