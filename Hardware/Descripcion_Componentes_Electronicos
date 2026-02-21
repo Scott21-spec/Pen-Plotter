@@ -1,5 +1,5 @@
 *** MCU ***
-- ESP32 - S3 : 
+- ESP32-S3-WROOM-1-N8R2 : 
   + Núcleos: 2
   + Clock integrado: 240MHz, 
   + Wifi integrado, 
@@ -7,6 +7,8 @@
   + Firmware: FluidNC/ESP3D,
   + Pines GPIO: 40 aprox.
 
+  + 
 
+*** ADC ***
 
   
