@@ -1,0 +1,12 @@
+*** MCU ***
+- ESP32 - S3 : 
+  + Núcleos: 2
+  + Clock integrado: 240MHz, 
+  + Wifi integrado, 
+  + Voltaje: 3.3V,
+  + Firmware: FluidNC/ESP3D,
+  + Pines GPIO: 40 aprox.
+
+
+
+  
